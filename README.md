@@ -23,20 +23,6 @@ To lead the transformation towards a sustainable energy future by developing inn
 - 📧 **Contact**: For inquiries and partnerships
 - 💡 **Innovation**: Committed to pushing the boundaries of energy technology
 
-## Contributing
-
-We welcome contributions from the community! Whether you're interested in:
-- Contributing to our open-source projects
-- Reporting issues or suggesting improvements
-- Collaborating on research initiatives
-- Joining our team
-
-Please check out our repositories and contribution guidelines.
-
-## Repositories
-
-Explore our public repositories to see our latest projects and innovations in the energy sector. We maintain high standards for code quality and documentation to ensure our solutions are accessible and reliable.
-
 ---
 
 *Building the future of energy, one innovation at a time.*
