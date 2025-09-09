@@ -22,7 +22,7 @@ To lead the transformation of electricity markets by creating innovative, intell
 * 🌐 **Website**: [arcane.energy](https://www.arcane.energy)
 * 📧 **Contact**: [contact@arcane.energy](mailto:contact@arcane.energy)
 * 📍 **Location**: Åbogade 15, 8200 Aarhus N, Denmark
-* 💡 **Opportunity**: Think you can spot the signal? Let’s talk.
+* 💡 **Opportunity**: Think you can spot the opportunity?. Let's Talk!
 
 ---
 
