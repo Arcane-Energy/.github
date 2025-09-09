@@ -1,7 +1,3 @@
-Got it ✅ — you want to keep the **same structure and style** as your current README, but make it reflect the **real focus of Arcane Energy** (algorithmic trading in electricity markets, not generic renewables). Here’s a reworked version that keeps the format but aligns with your actual website:
-
----
-
 # Arcane Energy
 
 Welcome to Arcane Energy's GitHub organization! We are committed to advancing the future of energy trading through intelligent technology and research.
